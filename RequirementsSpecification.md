@@ -28,7 +28,7 @@ Lorem Ipsum
 | Key | Summary | Description | Category | Status | MoSCoW |
 | -- | -- | -- | -- | -- | -- |
 | req_1 | Speed dependent start | The system should start increasing the foil angle above a certain speed. This reduces unnecessary drag at low speeds. | - | - | M |
-|
+| req_2 | Adjustable height | The flight height needs to be adjustable from the user, so it can be adapted to the current weather conditions. | - | - | M |
 
 
 # Non-functional requirements
