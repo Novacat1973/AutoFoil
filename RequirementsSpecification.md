@@ -23,20 +23,16 @@ Lorem Ipsum
 >    S = Should have
 >    C = Could have
 >    W = Won't have (Exclusion, not used in this document)
->
-> The column "Prio" is a given priority to allow a sequential development process. This is only about the order development takes place, not about must/should/can !
->
-> A=high>
-> B=Medium>
-> C=Low
 
-| Key | Summary | Description | Category | Status | Prio | MoSCoW | Acceptance Test |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| a | b | c | d | e | f | g | h | 
+
+| Key | Summary | Description | Category | Status | MoSCoW |
+| -- | -- | -- | -- | -- | -- |
+| req_1 | Speed dependent start | The system should start increasing the foil angle above a certain speed. This reduces unnecessary drag at low speeds. | - | - | M |
+|
 
 
 # Non-functional requirements
 
-| Key | Summary | Description | Category | Status | Prio | MoSCoW | Acceptance Test |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| a | b | c | d | e | f | g | h | 
+| Key | Summary | Description | Category | Status | MoSCoW |
+| -- | -- | -- | -- | -- | -- |
+| a | b | c | d | e | f |
